@@ -1,16 +1,29 @@
-# hello-on
->1+1
-factorial(round(2.0541)
-#view(plot)
-Plot(trees)
-mean(trees$grith)
-median(trees$height)
-demo()
-license()
-licence()
-help()
-citation()
-q()
->mpg
-#hell
 <html>
+<html>
+	<head>
+	<title>My first PHP page</title>
+
+	</head>
+	<body>
+
+	</body>
+	</html>
+  <?php   
+
+	echo date("r");
+
+	?>
+
+	</body>
+	</html>
+  <html>
+
+	  <head>
+	  <title>My first website </title>
+	  </head>
+
+	  <body>
+	  <p>Hurrah! This is my website.</p>
+	  </body>
+
+	</html>
