@@ -29,9 +29,8 @@
 	</html>
 <h1>This is a heading</h1>
 	<h2>This is a subheading</h2>
-	This is a heading
-
-This is a subheading
+	"> <div class="logo"> <img src="img/logo.png" alt=""
+	> </div> <div class="shape"> <img src="img/shape.png" alt=""> </d…
 
 	<figure>
 	  <img src="david.jpg" alt="David">
